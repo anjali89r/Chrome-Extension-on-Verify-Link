@@ -27,12 +27,12 @@ body{
   padding: 9px;
 
 } */
-.navbar-header{
+/* .navbar-header{
   background-color: darkgrey;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 11px;
-}
+} */
 
 
 .grid {
@@ -103,8 +103,8 @@ body{
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
 .w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
 .w3-matbrown,.w3-hover-lime:hover{color:#000!important;background-color: #efebe9!important}
-/* .w3-matbrown{
-  text-shadow: 4px 4px 4px #aaa;
+/* .bottommargin{
+  margin-bottom:5px;
 
 } */
 
