@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
 
-  "name": "links",
-  "description": "This extension provides the first link of the web page",
+  "name": "Verify Links",
+  "description": "This extension verify all the links in a webpage and list out as valid, invalid, external & internal links",
   "version": "1.0",
 
   "browser_action": {
     "default_icon": "url.png",
     "default_popup": "index.html",
-    "default_title": "shop here"
+    "default_title": "Verify Links"
   },
   "icons": {
     "64": "url.png"
